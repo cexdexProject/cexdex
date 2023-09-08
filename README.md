@@ -1,9 +1,5 @@
 
 
-
-
-
-
 This project allows users to swap tokens from one blockchain to another, showcasing a simple web UI to facilitate the process.
 
 ## Features
