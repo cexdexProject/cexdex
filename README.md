@@ -12,7 +12,7 @@ This project allows users to swap tokens from one blockchain to another, showcas
 
 1. **Clone the repository**
 
-   ```sh
+  
    git clone <repository_url>
 Navigate to the project directory
 
